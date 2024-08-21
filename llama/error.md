@@ -24,4 +24,5 @@ no answers
 + https://github.com/meta-llama/llama3/issues/299
 + pip install transformers==4.43.1
 
-# RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:2 and cuda:1!`
+# Run on multi GPU 
+## RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:2 and cuda:1!`
