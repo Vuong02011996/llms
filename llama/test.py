@@ -25,11 +25,3 @@ print(output[0]["generated_text"])
 print("Done!")
 
 # Save the tokenizer and model
-# Save the tokenizer and model
-# tokenizer = AutoTokenizer.from_pretrained(model_id)
-# model = AutoModelForCausalLM.from_pretrained(model_id)
-
-# tokenizer.save_pretrained(custom_cache_dir)
-# model.save_pretrained(custom_cache_dir)
-
-# print("Model and tokenizer saved to", custom_cache_dir)
